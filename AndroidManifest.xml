@@ -23,6 +23,7 @@
             </intent-filter>
         </activity>
         <activity android:name="KIK"></activity>
+        <activity android:name="Edit"></activity>
     </application>
 
 </manifest>
